@@ -1,7 +1,7 @@
 {
   "name": "caribaca.com",
   "short_name": "CARIBACA",
-  "start_url": "https://www.caribaca.com/",
+  "start_url": "https://www.caribaca.com/?m=1",
   "display": "standalone",
   "background_color": "#673AB7",
   "theme_color": "#2B0C93",
